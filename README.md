@@ -1,2 +1,31 @@
-# Smart-Delivery-Planning---Fractional-Knapsack
-Smart Delivery Planning is a C-based project that uses the Greedy Algorithm- fractional knapsack to maximize the value of packages within a limited vehicle capacity. It calculates value-to-weight ratios, sorts packages, and selects complete or fractional quantities using a menu-driven interface.
+# Fractional Knapsack
+
+A C-based implementation of the Fractional Knapsack problem using the Greedy Algorithm.
+
+## Description
+
+This project calculates the value-to-weight ratio of packages, sorts them by ratio, and selects complete or fractional quantities to maximize the total value within a limited vehicle capacity.
+
+## Features
+
+- Enter package details
+- Calculate value-to-weight ratio
+- Sort packages by ratio
+- Find maximum possible value
+- Display selected packages
+- Menu-driven interface
+
+## Algorithm
+
+The project uses the Greedy Algorithm. Packages are selected based on the highest value-to-weight ratio first.
+
+## Technologies Used
+
+- C Programming
+- Arrays
+- Sorting
+- Greedy Algorithm
+
+## How to Run
+
+Compile the program using a C compiler and run the generated executable.
